@@ -7,7 +7,7 @@ public class SnowPeaShooter extends Shooter{
 	}
 
 	//override method
-	public void Attack () {
+	public void attack () {
 		
 	}
 

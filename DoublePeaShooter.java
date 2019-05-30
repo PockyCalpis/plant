@@ -7,7 +7,7 @@ public class DoublePeaShooter extends Shooter{
 	}
 
 	@Override
-	public void Attack() {
+	public void attack() {
 		
 	}
 
