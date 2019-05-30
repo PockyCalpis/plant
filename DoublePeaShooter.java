@@ -1,4 +1,4 @@
-package plantsVsZombies;
+package plant;
 
 public class DoublePeaShooter extends Shooter{
 

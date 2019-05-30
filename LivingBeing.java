@@ -1,4 +1,4 @@
-package plantsVsZombies;
+package plant;
 
 public class LivingBeing {
 	private int health, atk;

@@ -1,3 +1,5 @@
+package plant;
+
 /**
  * LinkedList
  * @version 1.5

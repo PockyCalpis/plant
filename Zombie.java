@@ -1,4 +1,4 @@
-package plantsVsZombies;
+package plant;
 
 public class Zombie extends LivingBeing{
 private int x, y, speed;
@@ -26,7 +26,7 @@ private int x, y, speed;
 		return speed;
 	}
 	
-	public void eatPlant(Plant plant){
-		plant.setHp(plant.getHp()-50);
+	public void eatPlant(Plant plant) {
+		plant.setHp(plant.getHp()-this.getAtk());
 	}
 }

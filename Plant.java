@@ -1,4 +1,4 @@
-package plantsVsZombies;
+package plant;
 
 public class Plant extends LivingBeing {
 	private int cooldown, productionSpeed;

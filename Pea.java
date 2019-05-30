@@ -1,4 +1,4 @@
-package plantsVsZombies;
+package plant;
 
 public class Pea extends LivingBeing {
 	private int x, y;
